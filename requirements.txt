@@ -5,4 +5,5 @@ pinecone-client
 langchain-community
 langchain
 transformers
+sentence-transformers
 torch
