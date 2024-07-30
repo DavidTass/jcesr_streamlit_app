@@ -1,7 +1,7 @@
 import streamlit as st
 from huggingface_hub import login
 from pinecone import Pinecone, ServerlessSpec
-from langchain.embeddings.huggingface import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.llms import HuggingFacePipeline
 from langchain.chains import RetrievalQA
 from langchain.vectorstores import Pinecone as langchain_pinecone
