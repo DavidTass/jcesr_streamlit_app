@@ -1,0 +1,6 @@
+streamlit
+huggingface_hub
+pinecone
+langchain
+transformers
+torch
