@@ -1,6 +1,8 @@
 streamlit
-huggingface_hub
+huggingface-hub
 pinecone
+pinecone-client
+langchain-community
 langchain
 transformers
 torch
